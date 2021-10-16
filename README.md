@@ -18,6 +18,7 @@ ________________________________________________________________________________
   
  [گزارش تحقیق درس سمینار با _Word](https://github.com/Chenourhoseini/Seminar/blob/main/seminar.docx)
 
+  [گزارش تحقیق درس سمینار با _pdf](https://github.com/Chenourhoseini/Seminar/blob/main/seminar.pdf)
 
 </div>
 
